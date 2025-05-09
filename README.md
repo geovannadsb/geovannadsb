@@ -22,5 +22,5 @@ Atualmente, estou em fase de aprendizagem, com foco em <strong>Python, modelos d
 <br/>
 
 <a href="https://github.com/geovannadsb" title="Perfil da Geovanna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannadsb&theme=dracula&show_icons=true" />
 </a>
