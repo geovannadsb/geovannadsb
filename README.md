@@ -1,27 +1,7 @@
-## ## Oiii eu sou a Geovanna, criadora de de programação e tecnologia!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/ge_sanots06?igsh=MWZ6bmZ2aTZndG04Zw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "geovannadsb06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-<hr/>
+### Olá, meu nome é Geovanna!
 
-### 
+<img src="https://img.shields.io/static/v1?label=Overview&message=Geovanna Dos Santos Benedito&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<div align="center">
-<a href="https://github.com/geovannadsb">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geovannadsb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannadsb&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</a>
-</div>
+<p>Sou estudante de Ciência de Dados e Machine Learning<br/>  Estou começando minha jornada no mundo da tecnologia com muita curiosidade e entusiasmo</p>
