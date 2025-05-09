@@ -19,4 +19,8 @@ Atualmente, estou em fase de aprendizagem, com foco em <strong>Python, modelos d
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=geovannadsb&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<br/>
+
+<a href="https://github.com/geovannadsb" title="Perfil da Geovanna">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
