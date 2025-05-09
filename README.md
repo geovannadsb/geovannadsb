@@ -9,18 +9,20 @@ Atualmente, estou em fase de aprendizagem, com foco em <strong>Python, modelos d
 
 <p align="left">
   💌 Onde me encontrar: ⤵️
+  
+  <br/>
 </p>
-
-<br/>
 
 <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:geovannadsb06@gmail.com?subject=ContatoTO&body=Olá! Como posso ajudar?
-" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:geovannadsb06@gmail.com?subject=Contato%20pelo%20site&body=Olá%20Geovanna,%20gostaria%20de%20falar%20com%20você." target="_blank" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/geovanna-dos-santos-benedito" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=61994003462&text=Olá! Como posso ajudar?" alt="WhatsApp"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561994003462&text=Olá%20Geovanna,%20gostaria%20de%20falar%20com%20você." target="_blank"
+" alt="WhatsApp"/></a>
+
+</p>
 
 <br/>
 
