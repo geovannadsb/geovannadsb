@@ -35,13 +35,14 @@ Atualmente, estou em fase de aprendizagem, com foco em <strong>Python, modelos d
 
 <br/>
 
-<br/>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannadsb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannadsb&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/geovannadsb">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannadsb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  </a>
-  <a href="https://github.com/geovannadsb">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannadsb&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
-  </a>
-</div>
