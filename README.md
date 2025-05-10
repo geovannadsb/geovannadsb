@@ -35,6 +35,10 @@ Atualmente, estou em fase de aprendizagem, com foco em <strong>Python, modelos d
 
 <br/>
 
-<a href="https://github.com/geovannadsb" title="Perfil da Geovanna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannadsb&theme=dracula&show_icons=true" />
+<div align="center">
+<a href="https://github.com/geovannadsb">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geovannadsb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannadsb&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </a>
+</div>
+
