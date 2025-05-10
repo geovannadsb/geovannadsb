@@ -35,6 +35,8 @@ Atualmente, estou em fase de aprendizagem, com foco em <strong>Python, modelos d
 
 <br/>
 
+<br/>
+
 <table>
   <tr>
     <td>
