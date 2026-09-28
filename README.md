@@ -1,6 +1,12 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Geovanna!+%F0%9F%92%9C;Estudante+de+Ci%C3%AAncia+de+Dados+e+ML;Automa%C3%A7%C3%A3o+com+IA+%E2%80%A2+Python+%E2%80%A2+BI;Em+busca+do+primeiro+est%C3%A1gio+em+TI" alt="Texto animado de apresentação">
+  </a>
+</div>
+
 ## 💜 Olá, meu nome é Geovanna!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+<img src="computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left">
 Sou estudante de <strong>Ciência de Dados e Machine Learning</strong> (4º semestre) e me interesso por todo o universo da minha área, da análise de dados à inteligência artificial. Aprendo colocando a mão na massa: já transformei problemas reais do meu dia a dia de trabalho em soluções de automação e controle de dados, usando IA como ferramenta de apoio.
@@ -10,24 +16,30 @@ Sou estudante de <strong>Ciência de Dados e Machine Learning</strong> (4º seme
 Atualmente, estou aprofundando <strong>Python, modelos de banco de dados e bibliotecas como Pandas e NumPy</strong>, além de Business Intelligence e engenharia de software, buscando uma base sólida tanto na parte técnica quanto na compreensão prática dos dados.
 </p>
 
+<br clear="right"/>
+
+### Linguagens e ferramentas
 <p align="left">
-Em busca do meu primeiro estágio em TI!
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  &nbsp;
+  <img alt="Pandas" title="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  &nbsp;
+  <img alt="NumPy" title="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  &nbsp;
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  &nbsp;
+  <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  &nbsp;
+  <img alt="VS Code" title="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
+### Vamos nos conectar!
 <p align="left">
-  💌 Onde me encontrar: ⤵️
-  <br/>
-</p>
-
-<p align="left">
-  <!-- Gmail -->
-  <a href="mailto:geovannadsb06@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá%20Geovanna,%20gostaria%20de%20falar%20com%20você." title="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:geovannadsb06@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá%20Geovanna,%20gostaria%20de%20falar%20com%20você." target="_blank">
+    <img alt="Gmail" title="Enviar e-mail" src="https://img.shields.io/badge/Gmail-9B59B6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/geovanna-dos-santos-benedito" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/geovanna-dos-santos-benedito" target="_blank">
+    <img alt="LinkedIn" title="Me chame no LinkedIn" src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -43,3 +55,7 @@ Em busca do meu primeiro estágio em TI!
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://github.com/geovannadsb/geovannadsb/raw/output/github-contribution-grid-snake.svg" alt="Animação das minhas contribuições no GitHub" />
+</div>
