@@ -9,7 +9,7 @@
 <img src="computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left">
-Estou no 4º semestre de <strong>Ciência de Dados e Machine Learning</strong> e, na prática, aprendo fazendo. Durante minha experiência como jovem aprendiz na área da saúde, identifiquei problemas reais de processo e estruturei soluções em Excel e automações, usando ferramentas de IA para viabilizar a parte técnica.
+Estou no 4º semestre de <strong>Ciência de Dados e Machine Learning</strong> e, na prática, aprendo fazendo. Durante minha experiência na área da saúde, identifiquei problemas reais de processo e estruturei soluções em Excel e automações, usando ferramentas de IA para viabilizar a parte técnica.
 </p>
 
 <p align="left">
