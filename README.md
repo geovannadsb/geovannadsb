@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Geovanna!
 
-<img src="COLE-AQUI-O-LINK-DA-SUA-COPIA-DA-ILUSTRACAO" alt="ilustração de um computador" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left">
 Sou estudante de <strong>Ciência de Dados e Machine Learning</strong> (4º semestre) e me interesso por todo o universo da minha área, da análise de dados à inteligência artificial. Aprendo colocando a mão na massa: já transformei problemas reais do meu dia a dia de trabalho em soluções de automação e controle de dados, usando IA como ferramenta de apoio.
