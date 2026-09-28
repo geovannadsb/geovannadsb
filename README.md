@@ -9,11 +9,15 @@
 <img src="computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left">
-Sou estudante de <strong>Ciência de Dados e Machine Learning</strong> (4º semestre) e me interesso por todo o universo da minha área, da análise de dados à inteligência artificial. Aprendo colocando a mão na massa: já transformei problemas reais do meu dia a dia de trabalho em soluções de automação e controle de dados, usando IA como ferramenta de apoio.
+Estou no 4º semestre de <strong>Ciência de Dados e Machine Learning</strong> e, na prática, aprendo fazendo. Durante minha experiência como jovem aprendiz na área da saúde, identifiquei problemas reais de processo e estruturei soluções em Excel e automações, usando ferramentas de IA para viabilizar a parte técnica.
 </p>
 
 <p align="left">
-Atualmente, estou aprofundando <strong>Python, modelos de banco de dados e bibliotecas como Pandas e NumPy</strong>, além de Business Intelligence e engenharia de software, buscando uma base sólida tanto na parte técnica quanto na compreensão prática dos dados.
+Isso me mostrou que gosto de resolver problemas com dados e tecnologia, e agora quero aprofundar de verdade em <strong>Python, bancos de dados, Business Intelligence e engenharia de software</strong>. Também sou apaixonada por arte, o que me ajuda a enxergar a tecnologia sob outras perspectivas e manter a criatividade viva no que faço. Sou proativa, aprendo rápido e não tenho medo de assumir um problema que ninguém mais quis resolver.
+</p>
+
+<p align="left">
+Buscando estágio em TI para aplicar o que já sei e aprender o que ainda não sei, na prática.
 </p>
 
 <br clear="right"/>
@@ -22,15 +26,18 @@ Atualmente, estou aprofundando <strong>Python, modelos de banco de dados e bibli
 <p align="left">
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &nbsp;
-  <img alt="Pandas" title="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  &nbsp;
-  <img alt="NumPy" title="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  &nbsp;
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   &nbsp;
   <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   &nbsp;
   <img alt="VS Code" title="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</p>
+
+<p align="left">
+  Noções básicas de:
+  <img alt="SQL - básico" src="https://img.shields.io/badge/SQL-b%C3%A1sico-9B59B6?style=for-the-badge"/>
+  <img alt="Power BI - básico" src="https://img.shields.io/badge/Power_BI-b%C3%A1sico-9B59B6?style=for-the-badge"/>
+  <img alt="Excel - básico" src="https://img.shields.io/badge/Excel-b%C3%A1sico-9B59B6?style=for-the-badge"/>
 </p>
 
 ### Vamos nos conectar!
@@ -44,17 +51,6 @@ Atualmente, estou aprofundando <strong>Python, modelos de banco de dados e bibli
 </p>
 
 <br/>
-
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannadsb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannadsb&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <img src="https://github.com/geovannadsb/geovannadsb/raw/output/github-contribution-grid-snake.svg" alt="Animação das minhas contribuições no GitHub" />
