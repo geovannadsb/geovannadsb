@@ -17,7 +17,7 @@ Isso me mostrou que gosto de resolver problemas com dados e tecnologia, e agora 
 </p>
 
 <p align="left">
-Buscando estágio em TI para aplicar o que já sei e aprender o que ainda não sei, na prática.
+Busco aplicar o que já sei e aprender o que ainda não sei, na prática.
 </p>
 
 <br clear="right"/>
